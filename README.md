@@ -1,6 +1,8 @@
 # zone_control
 simulator + resources for a zone-control based board game
 
+To run the simulator, run controller/controller.py
+
 Board full of nodes and paths connecting the nodes
 Each player starts with one node
 all nodes grow by 1 each turn (up to 6)
